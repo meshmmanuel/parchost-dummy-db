@@ -1,0 +1,40 @@
+{
+  "parchost": [
+    {
+      "id": 1,
+      "title": "Ikeja Shopping Mall - Parchost",
+      "cost": "$3.01",
+      "location": "Ikeja"
+    },
+    {
+      "id": 2,
+      "title": "Allen Avenue - Parchost",
+      "cost": "$9.14",
+      "location": "Allen"
+    },
+    {
+      "id": 3,
+      "title": "National Stadium - Parchost",
+      "cost": "$7.78",
+      "location": "Surulere"
+    },
+    {
+      "id": 4,
+      "title": "Magodo Phase 1 - Parchost",
+      "cost": "$4.81",
+      "location": "Magodo"
+    },
+    {
+      "id": 5,
+      "title": "Lekki Tollgate - Parchost",
+      "cost": "$9.64",
+      "location": "Lekki"
+    },
+    {
+      "id": 6,
+      "title": "Lekki Conservation Center - Parchost",
+      "cost": "$8.51",
+      "location": "Lekki"
+    }
+  ]
+}
